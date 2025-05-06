@@ -6,8 +6,8 @@ A feature-rich Task Management System built for small teams. This app enables us
 
 ## 🚀 Live Demo
 
-- **Frontend** (Next.js): [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-- **Backend** (Node.js + Express): [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- **Frontend** (Next.js): [https://vercel.com/george-gs56s-projects/task-manager]
+- **Backend** (Node.js + Express): [https://railway.com/project/f4ceea48-1508-45fb-b00a-f3b380e49a64?environmentId=cc7f6be0-0415-4acb-aeb7-9a8664f327b5]
 - 🔐 Login Credentials (Demo User):
   - Email: `demo@example.com`
   - Password: `password123`
@@ -52,5 +52,5 @@ A feature-rich Task Management System built for small teams. This app enables us
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/George-gs56/Task-Manager
 cd task-manager
